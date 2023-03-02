@@ -1,0 +1,33 @@
+{
+   "title":"[Tsukako] Living With an Elf Bride",
+   "description":"",
+   "author":"Tsukako",
+   "artist":"Tsukako",
+   "cover":"https://i.imgur.com/028forB.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/YuR9Dr2"
+         },
+         "last_updated":1624606143,
+         "title":"Living With an Elf Bride - Part 1",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/0ZgBL4r"
+         },
+         "last_updated":1624606143,
+         "title":"Living With an Elf Bride - Part 2",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/r5xLUEX"
+         },
+         "last_updated":1624606143,
+         "title":"Living With an Elf Bride - Part 3",
+         "volume":"3"
+      }
+   }
+}
