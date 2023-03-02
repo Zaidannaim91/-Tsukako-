@@ -1,0 +1,25 @@
+{
+   "title":"[Tsukako] Tough ☆ Sis",
+   "description":"",
+   "author":"Tsukako",
+   "artist":"Tsukako",
+   "cover":"https://i.imgur.com/R8HEDgC.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/QM2qOk2"
+         },
+         "last_updated":1624606143,
+         "title":"Tough ☆ Sis",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/yWQr52y"
+         },
+         "last_updated":1624606143,
+         "title":"Smitten ❤ Sis ~The Sequel to Tough ☆ Sis~",
+         "volume":"2"
+      }
+   }
+}
