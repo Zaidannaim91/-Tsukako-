@@ -1,0 +1,39 @@
+{
+   "title":"[Tsukako] Sekigahara-san Has Something to Hide",
+   "description":"",
+   "author":"Tsukako",
+   "artist":"Tsukako",
+   "cover":"https://i.imgur.com/sB1BihT.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/VtQv0SA"
+         },
+         "last_updated":1624606143,
+         "title":"Sekigahara-san Has Something to Hide",
+         "volume":"1"},
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/4LMDSJx"
+         },
+         "last_updated":1624606143,
+         "title":"Sekigahara-san Has Something to Accomplish",
+         "volume":"2"},
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/L6Ey3rE"
+         },
+         "last_updated":1624606143,
+         "title":"Sekigahara-san Has Something to Culminate",
+         "volume":"3"
+      },
+      "4":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/YlaoN0H"
+         },
+         "last_updated":1624606143,
+         "title":"Sekigahara-san Has Something She Wants to Hear",
+         "volume":"4"
+      }
+   }
+}
